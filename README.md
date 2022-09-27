@@ -1,2 +1,5 @@
-# dot-key-Clone
-dotandKey website clone with HTML, CSS and JavaScript
+# dotandkey-Clone
+#### A skincare products website that believes in providing
+delightfully safe, surprisingly gentle, and
+unquestionably effective skincare products that are
+free from nasty chemicals.
