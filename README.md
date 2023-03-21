@@ -1,4 +1,4 @@
-# DotandKey.com Clone Website
+# dotandkey.com Clone
 
 ![Screenshot (233)](https://user-images.githubusercontent.com/105915717/201955865-ac86c5d0-2e2c-4fc3-bdca-dc9d8162144f.png)
 ![Screenshot (262)](https://user-images.githubusercontent.com/105915717/204104888-8c55373d-2deb-4e08-b48d-689b930ecf7a.png)
